@@ -18,11 +18,22 @@ pytest -v src/tests
 
 VS CODE:
 
+Install the extensions:
+
+Python
+Docker
+Dev Containers
+Pylance
+Python Debugger
+WSL
+
+
 open the project by the command 
 
 code .
-install python dependencies
-install pytest dependencies
+
+Open Command Palette (Ctrl + Shift + P).
+Type Python: Select Interpreter and select the correct version of Python you want to use
 
 
 
